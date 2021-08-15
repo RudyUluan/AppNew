@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#fff"
+    android:elevation="15dp"
+    android:layout_margin="2dp"
+    android:id="@+id/mainLayout"
+    >
+
+    <LinearLayout
+        android:layout_margin="2dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+
+        android:elevation="10dp"
+        >
+
+
+        <RelativeLayout
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            >
+
+            <ImageView
+                android:id="@+id/imgnoticias"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="fitXY"
+                app:srcCompat="@mipmap/ic_launcher"
+
+                />
+
+            <TextView
+                android:id="@+id/titulonoticias"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:background="#7f333639"
+                android:gravity="center"
+                android:text="Tirulo"
+                android:textColor="@color/white"
+                android:textSize="15sp"
+                android:textStyle="bold"
+                android:layout_alignParentBottom="true"/>
+
+        </RelativeLayout>
+
+
+
+
+        <TextView
+            android:layout_marginLeft="5dp"
+            android:layout_gravity="center"
+            android:id="@+id/descripcionnoticias"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="descripcion"
+            android:maxLength="200"
+            />
+
+
+    </LinearLayout>
+</RelativeLayout>

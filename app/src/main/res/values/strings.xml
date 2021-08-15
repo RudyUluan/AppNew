@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">COVID-19 Consulta</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    /*Datos de emergencia*/
+    <string-array name="emergencias">
+        <item>Bomberos</item>
+        <item>Policias</item>
+        <item>Cruz Roja</item>
+        <item>Provial</item>
+        <item>PMT</item>
+        <item>CIA</item>
+    </string-array>
+
+    <string-array name="descripcion">
+        <item>58151</item>
+        <item>911</item>
+        <item>8111</item>
+        <item>1444</item>
+        <item>8752215</item>
+        <item>05151151</item>
+    </string-array>
+
+    /*Datos de Noticias */
+
+
+    <string-array name="titulonoticia">
+        <item>Narcotráfico dentro del Ministerio de Comunicaciones</item>
+        <item>¿Cuándo compite y dónde ver a Charles Fernández por pentatlón?</item>
+        <item>Así fue el paso de Kevin Cordón por Tokio 2020 </item>
+
+    </string-array>
+    <string-array name="descripcionnoticia">
+        <item>Ahora que el multimillonario emergente Edmundo Lemus ha dejado la cartera de Comunicaciones, ha puesto a trabajar, a marchas forzadas a su socio Mario Aguilar, el dueño de Covial, quien es otro de los multimillonarios emergentes y reconocido por sus múltiples casos de corrupción, para que por medio de sus operadores cobren, al mejor estilo de extorsión, por adelantado, las coimas de los proyectos que les dieron a varios constructores. Para el efecto utilizan una estructura de operadores que son verdaderas joyas de colección</item>
+        <item>Charles Fernández tendrá la oportunidad de competir en sus segundos Juegos Olímpicos luego de su dorada actuación en los Juegos Panamericanos de Lima 2019, donde selló su pase olímpico al ganar el oro de la prueba individual.</item>
+        <item>Tras su paso por Tokio debutó en seis torneos, en donde consiguió la victoria de cuatro que lo llevaron a la semifinal y fue derrotado en dos, mismos que le impidieron que fuera acreedor de una presea.
+Pese a ello, el deportista logró posicionarse entre los mejores cuatro mejores del mundo de esta edición de las olimpiadas.</item>
+
+
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+</resources>
