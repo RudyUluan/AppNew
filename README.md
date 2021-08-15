@@ -39,3 +39,11 @@ implementation 'com.github.PhilJay:MPAndroidChart:v3.1.0'
 
 implementation 'com.google.android.gms:play-services-maps:17.0.1'
 
+
+
+![Img1](https://user-images.githubusercontent.com/35510907/129496004-1adedeff-9682-496b-9069-a2b5c110e004.jpg)
+![img2](https://user-images.githubusercontent.com/35510907/129496007-f87cb291-c057-4ce2-a393-86d1352df23b.jpg)
+![img3](https://user-images.githubusercontent.com/35510907/129496008-26355bc7-41b7-43c4-b24e-f2118d286b46.jpg)
+![img4](https://user-images.githubusercontent.com/35510907/129496010-01fcc976-edd1-4a6c-934c-224ebabbb523.jpg)
+![img5](https://user-images.githubusercontent.com/35510907/129496012-1b7b2ecf-972e-4990-82e6-7a9989bc1df3.jpg)
+
